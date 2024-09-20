@@ -1,0 +1,15 @@
+C:\Users\dorsettimartinez\source\repos\HistorialNavegacion\HistorialNavegacion\bin\Debug\net8.0\HistorialNavegacion.exe
+C:\Users\dorsettimartinez\source\repos\HistorialNavegacion\HistorialNavegacion\bin\Debug\net8.0\HistorialNavegacion.deps.json
+C:\Users\dorsettimartinez\source\repos\HistorialNavegacion\HistorialNavegacion\bin\Debug\net8.0\HistorialNavegacion.runtimeconfig.json
+C:\Users\dorsettimartinez\source\repos\HistorialNavegacion\HistorialNavegacion\bin\Debug\net8.0\HistorialNavegacion.dll
+C:\Users\dorsettimartinez\source\repos\HistorialNavegacion\HistorialNavegacion\bin\Debug\net8.0\HistorialNavegacion.pdb
+C:\Users\dorsettimartinez\source\repos\HistorialNavegacion\HistorialNavegacion\obj\Debug\net8.0\HistorialNavegacion.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\dorsettimartinez\source\repos\HistorialNavegacion\HistorialNavegacion\obj\Debug\net8.0\HistorialNavegacion.AssemblyInfoInputs.cache
+C:\Users\dorsettimartinez\source\repos\HistorialNavegacion\HistorialNavegacion\obj\Debug\net8.0\HistorialNavegacion.AssemblyInfo.cs
+C:\Users\dorsettimartinez\source\repos\HistorialNavegacion\HistorialNavegacion\obj\Debug\net8.0\HistorialNavegacion.csproj.CoreCompileInputs.cache
+C:\Users\dorsettimartinez\source\repos\HistorialNavegacion\HistorialNavegacion\obj\Debug\net8.0\HistorialNavegacion.sourcelink.json
+C:\Users\dorsettimartinez\source\repos\HistorialNavegacion\HistorialNavegacion\obj\Debug\net8.0\HistorialNavegacion.dll
+C:\Users\dorsettimartinez\source\repos\HistorialNavegacion\HistorialNavegacion\obj\Debug\net8.0\refint\HistorialNavegacion.dll
+C:\Users\dorsettimartinez\source\repos\HistorialNavegacion\HistorialNavegacion\obj\Debug\net8.0\HistorialNavegacion.pdb
+C:\Users\dorsettimartinez\source\repos\HistorialNavegacion\HistorialNavegacion\obj\Debug\net8.0\HistorialNavegacion.genruntimeconfig.cache
+C:\Users\dorsettimartinez\source\repos\HistorialNavegacion\HistorialNavegacion\obj\Debug\net8.0\ref\HistorialNavegacion.dll

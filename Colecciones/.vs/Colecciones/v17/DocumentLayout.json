@@ -1,0 +1,154 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\Dante\\source\\repos\\HistorialNavegacion\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{D09B7E96-B055-45E0-9E02-BF7B32F0A551}|AlmacenLocal\\AlmacenLocal.csproj|c:\\users\\dante\\source\\repos\\historialnavegacion\\almacenlocal\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D09B7E96-B055-45E0-9E02-BF7B32F0A551}|AlmacenLocal\\AlmacenLocal.csproj|solutionrelative:almacenlocal\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D09B7E96-B055-45E0-9E02-BF7B32F0A551}|AlmacenLocal\\AlmacenLocal.csproj|c:\\users\\dante\\source\\repos\\historialnavegacion\\almacenlocal\\modelos\\producto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D09B7E96-B055-45E0-9E02-BF7B32F0A551}|AlmacenLocal\\AlmacenLocal.csproj|solutionrelative:almacenlocal\\modelos\\producto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{97F2B2CB-CF29-492B-8F93-A3605DDCAB83}|ListaDeTareas\\ListaDeTareas.csproj|c:\\users\\dante\\source\\repos\\historialnavegacion\\listadetareas\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{97F2B2CB-CF29-492B-8F93-A3605DDCAB83}|ListaDeTareas\\ListaDeTareas.csproj|solutionrelative:listadetareas\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{601D5034-F4D2-42BB-9E8E-16355088CD3A}|EditorTexto\\EditorTexto.csproj|c:\\users\\dante\\source\\repos\\historialnavegacion\\editortexto\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{601D5034-F4D2-42BB-9E8E-16355088CD3A}|EditorTexto\\EditorTexto.csproj|solutionrelative:editortexto\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{18B37D9D-CE74-4274-9138-F1A60A89461E}|HistorialNavegacion\\HistorialNavegacion.csproj|c:\\users\\dante\\source\\repos\\historialnavegacion\\historialnavegacion\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{18B37D9D-CE74-4274-9138-F1A60A89461E}|HistorialNavegacion\\HistorialNavegacion.csproj|solutionrelative:historialnavegacion\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{FB1C2E68-0AA9-424C-B9D5-FC5C628D6430}|Banco\\Banco.csproj|c:\\users\\dante\\source\\repos\\historialnavegacion\\banco\\modelo\\cliente.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{FB1C2E68-0AA9-424C-B9D5-FC5C628D6430}|Banco\\Banco.csproj|solutionrelative:banco\\modelo\\cliente.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{97F2B2CB-CF29-492B-8F93-A3605DDCAB83}|ListaDeTareas\\ListaDeTareas.csproj|c:\\users\\dante\\source\\repos\\historialnavegacion\\listadetareas\\modulos\\tarea.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{97F2B2CB-CF29-492B-8F93-A3605DDCAB83}|ListaDeTareas\\ListaDeTareas.csproj|solutionrelative:listadetareas\\modulos\\tarea.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{FB1C2E68-0AA9-424C-B9D5-FC5C628D6430}|Banco\\Banco.csproj|c:\\users\\dante\\source\\repos\\historialnavegacion\\banco\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{FB1C2E68-0AA9-424C-B9D5-FC5C628D6430}|Banco\\Banco.csproj|solutionrelative:banco\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 2,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{aa2115a1-9712-457b-9047-dbb71ca2cdd2}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Producto.cs",
+              "DocumentMoniker": "C:\\Users\\Dante\\source\\repos\\HistorialNavegacion\\AlmacenLocal\\Modelos\\Producto.cs",
+              "RelativeDocumentMoniker": "AlmacenLocal\\Modelos\\Producto.cs",
+              "ToolTip": "C:\\Users\\Dante\\source\\repos\\HistorialNavegacion\\AlmacenLocal\\Modelos\\Producto.cs",
+              "RelativeToolTip": "AlmacenLocal\\Modelos\\Producto.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAYAAAAnAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-19T23:14:59.288Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\Dante\\source\\repos\\HistorialNavegacion\\AlmacenLocal\\Program.cs",
+              "RelativeDocumentMoniker": "AlmacenLocal\\Program.cs",
+              "ToolTip": "C:\\Users\\Dante\\source\\repos\\HistorialNavegacion\\AlmacenLocal\\Program.cs",
+              "RelativeToolTip": "AlmacenLocal\\Program.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAgAAAATAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-19T23:13:58.125Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\Dante\\source\\repos\\HistorialNavegacion\\EditorTexto\\Program.cs",
+              "RelativeDocumentMoniker": "EditorTexto\\Program.cs",
+              "ToolTip": "C:\\Users\\Dante\\source\\repos\\HistorialNavegacion\\EditorTexto\\Program.cs",
+              "RelativeToolTip": "EditorTexto\\Program.cs",
+              "ViewState": "AQIAAAoAAAAAAAAAAAAgwEMAAAAnAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-19T18:48:01.319Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "Cliente.cs",
+              "DocumentMoniker": "C:\\Users\\Dante\\source\\repos\\HistorialNavegacion\\Banco\\Modelo\\Cliente.cs",
+              "RelativeDocumentMoniker": "Banco\\Modelo\\Cliente.cs",
+              "ToolTip": "C:\\Users\\Dante\\source\\repos\\HistorialNavegacion\\Banco\\Modelo\\Cliente.cs",
+              "RelativeToolTip": "Banco\\Modelo\\Cliente.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-19T18:29:53.442Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\Dante\\source\\repos\\HistorialNavegacion\\Banco\\Program.cs",
+              "RelativeDocumentMoniker": "Banco\\Program.cs",
+              "ToolTip": "C:\\Users\\Dante\\source\\repos\\HistorialNavegacion\\Banco\\Program.cs",
+              "RelativeToolTip": "Banco\\Program.cs",
+              "ViewState": "AQIAAAIAAAAAAAAAAAAxwAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-19T18:22:01.161Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "Tarea.cs",
+              "DocumentMoniker": "C:\\Users\\Dante\\source\\repos\\HistorialNavegacion\\ListaDeTareas\\Modulos\\Tarea.cs",
+              "RelativeDocumentMoniker": "ListaDeTareas\\Modulos\\Tarea.cs",
+              "ToolTip": "C:\\Users\\Dante\\source\\repos\\HistorialNavegacion\\ListaDeTareas\\Modulos\\Tarea.cs",
+              "RelativeToolTip": "ListaDeTareas\\Modulos\\Tarea.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAwAAAAJAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-19T17:47:40.289Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\Dante\\source\\repos\\HistorialNavegacion\\ListaDeTareas\\Program.cs",
+              "RelativeDocumentMoniker": "ListaDeTareas\\Program.cs",
+              "ToolTip": "C:\\Users\\Dante\\source\\repos\\HistorialNavegacion\\ListaDeTareas\\Program.cs",
+              "RelativeToolTip": "ListaDeTareas\\Program.cs",
+              "ViewState": "AQIAAE4AAAAAAAAAAAAmwLkAAAAaAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-19T17:43:59.552Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\Dante\\source\\repos\\HistorialNavegacion\\HistorialNavegacion\\Program.cs",
+              "RelativeDocumentMoniker": "HistorialNavegacion\\Program.cs",
+              "ToolTip": "C:\\Users\\Dante\\source\\repos\\HistorialNavegacion\\HistorialNavegacion\\Program.cs",
+              "RelativeToolTip": "HistorialNavegacion\\Program.cs",
+              "ViewState": "AQIAAAsAAAAAAAAAAAAQwAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-19T17:17:41.25Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

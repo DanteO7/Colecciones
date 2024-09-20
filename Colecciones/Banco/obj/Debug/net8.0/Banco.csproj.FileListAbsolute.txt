@@ -1,0 +1,15 @@
+C:\Users\dorsettimartinez\source\repos\HistorialNavegacion\Banco\bin\Debug\net8.0\Banco.exe
+C:\Users\dorsettimartinez\source\repos\HistorialNavegacion\Banco\bin\Debug\net8.0\Banco.deps.json
+C:\Users\dorsettimartinez\source\repos\HistorialNavegacion\Banco\bin\Debug\net8.0\Banco.runtimeconfig.json
+C:\Users\dorsettimartinez\source\repos\HistorialNavegacion\Banco\bin\Debug\net8.0\Banco.dll
+C:\Users\dorsettimartinez\source\repos\HistorialNavegacion\Banco\bin\Debug\net8.0\Banco.pdb
+C:\Users\dorsettimartinez\source\repos\HistorialNavegacion\Banco\obj\Debug\net8.0\Banco.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\dorsettimartinez\source\repos\HistorialNavegacion\Banco\obj\Debug\net8.0\Banco.AssemblyInfoInputs.cache
+C:\Users\dorsettimartinez\source\repos\HistorialNavegacion\Banco\obj\Debug\net8.0\Banco.AssemblyInfo.cs
+C:\Users\dorsettimartinez\source\repos\HistorialNavegacion\Banco\obj\Debug\net8.0\Banco.csproj.CoreCompileInputs.cache
+C:\Users\dorsettimartinez\source\repos\HistorialNavegacion\Banco\obj\Debug\net8.0\Banco.sourcelink.json
+C:\Users\dorsettimartinez\source\repos\HistorialNavegacion\Banco\obj\Debug\net8.0\Banco.dll
+C:\Users\dorsettimartinez\source\repos\HistorialNavegacion\Banco\obj\Debug\net8.0\refint\Banco.dll
+C:\Users\dorsettimartinez\source\repos\HistorialNavegacion\Banco\obj\Debug\net8.0\Banco.pdb
+C:\Users\dorsettimartinez\source\repos\HistorialNavegacion\Banco\obj\Debug\net8.0\Banco.genruntimeconfig.cache
+C:\Users\dorsettimartinez\source\repos\HistorialNavegacion\Banco\obj\Debug\net8.0\ref\Banco.dll
