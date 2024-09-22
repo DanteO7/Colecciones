@@ -1,0 +1,15 @@
+C:\Users\Dante\source\Colecciones\Colecciones\GestionTicket\bin\Debug\net8.0\GestionTicket.exe
+C:\Users\Dante\source\Colecciones\Colecciones\GestionTicket\bin\Debug\net8.0\GestionTicket.deps.json
+C:\Users\Dante\source\Colecciones\Colecciones\GestionTicket\bin\Debug\net8.0\GestionTicket.runtimeconfig.json
+C:\Users\Dante\source\Colecciones\Colecciones\GestionTicket\bin\Debug\net8.0\GestionTicket.dll
+C:\Users\Dante\source\Colecciones\Colecciones\GestionTicket\bin\Debug\net8.0\GestionTicket.pdb
+C:\Users\Dante\source\Colecciones\Colecciones\GestionTicket\obj\Debug\net8.0\GestionTicket.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Dante\source\Colecciones\Colecciones\GestionTicket\obj\Debug\net8.0\GestionTicket.AssemblyInfoInputs.cache
+C:\Users\Dante\source\Colecciones\Colecciones\GestionTicket\obj\Debug\net8.0\GestionTicket.AssemblyInfo.cs
+C:\Users\Dante\source\Colecciones\Colecciones\GestionTicket\obj\Debug\net8.0\GestionTicket.csproj.CoreCompileInputs.cache
+C:\Users\Dante\source\Colecciones\Colecciones\GestionTicket\obj\Debug\net8.0\GestionTicket.sourcelink.json
+C:\Users\Dante\source\Colecciones\Colecciones\GestionTicket\obj\Debug\net8.0\GestionTicket.dll
+C:\Users\Dante\source\Colecciones\Colecciones\GestionTicket\obj\Debug\net8.0\refint\GestionTicket.dll
+C:\Users\Dante\source\Colecciones\Colecciones\GestionTicket\obj\Debug\net8.0\GestionTicket.pdb
+C:\Users\Dante\source\Colecciones\Colecciones\GestionTicket\obj\Debug\net8.0\GestionTicket.genruntimeconfig.cache
+C:\Users\Dante\source\Colecciones\Colecciones\GestionTicket\obj\Debug\net8.0\ref\GestionTicket.dll

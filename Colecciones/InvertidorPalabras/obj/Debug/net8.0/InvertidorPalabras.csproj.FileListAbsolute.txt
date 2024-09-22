@@ -1,0 +1,15 @@
+C:\Users\Dante\source\Colecciones\Colecciones\InvertidorPalabras\bin\Debug\net8.0\InvertidorPalabras.exe
+C:\Users\Dante\source\Colecciones\Colecciones\InvertidorPalabras\bin\Debug\net8.0\InvertidorPalabras.deps.json
+C:\Users\Dante\source\Colecciones\Colecciones\InvertidorPalabras\bin\Debug\net8.0\InvertidorPalabras.runtimeconfig.json
+C:\Users\Dante\source\Colecciones\Colecciones\InvertidorPalabras\bin\Debug\net8.0\InvertidorPalabras.dll
+C:\Users\Dante\source\Colecciones\Colecciones\InvertidorPalabras\bin\Debug\net8.0\InvertidorPalabras.pdb
+C:\Users\Dante\source\Colecciones\Colecciones\InvertidorPalabras\obj\Debug\net8.0\InvertidorPalabras.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Dante\source\Colecciones\Colecciones\InvertidorPalabras\obj\Debug\net8.0\InvertidorPalabras.AssemblyInfoInputs.cache
+C:\Users\Dante\source\Colecciones\Colecciones\InvertidorPalabras\obj\Debug\net8.0\InvertidorPalabras.AssemblyInfo.cs
+C:\Users\Dante\source\Colecciones\Colecciones\InvertidorPalabras\obj\Debug\net8.0\InvertidorPalabras.csproj.CoreCompileInputs.cache
+C:\Users\Dante\source\Colecciones\Colecciones\InvertidorPalabras\obj\Debug\net8.0\InvertidorPalabras.sourcelink.json
+C:\Users\Dante\source\Colecciones\Colecciones\InvertidorPalabras\obj\Debug\net8.0\InvertidorPalabras.dll
+C:\Users\Dante\source\Colecciones\Colecciones\InvertidorPalabras\obj\Debug\net8.0\refint\InvertidorPalabras.dll
+C:\Users\Dante\source\Colecciones\Colecciones\InvertidorPalabras\obj\Debug\net8.0\InvertidorPalabras.pdb
+C:\Users\Dante\source\Colecciones\Colecciones\InvertidorPalabras\obj\Debug\net8.0\InvertidorPalabras.genruntimeconfig.cache
+C:\Users\Dante\source\Colecciones\Colecciones\InvertidorPalabras\obj\Debug\net8.0\ref\InvertidorPalabras.dll

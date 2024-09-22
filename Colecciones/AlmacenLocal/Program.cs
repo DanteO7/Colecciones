@@ -4,7 +4,7 @@ public class Program
 {
     static void Main()
     {
-        List<Producto> listaProductos = new List<Producto>();
+        Dictionary<string, Producto> listaProductos = new Dictionary<string, Producto>();
 
         int opcion;
 
@@ -30,37 +30,30 @@ public class Program
                     int cantidadStock = int.Parse(Console.ReadLine());
 
                     Producto productito = new Producto(nombreProducto, codigoProducto, cantidadStock);
-                    listaProductos.Add(productito);
+                    listaProductos.TryAdd(codigoProducto, productito);
                     Console.WriteLine("Producto agregado a la lista de productos\n");
                     break;
                 case 2:
-                    Console.WriteLine("Elige el producto para modificar la cantidad de stock");
-                    for (int i = 0; i < listaProductos.Count; i++)
+                    Console.Write("Ingrese el codigo del producto que desea actualizar la cantidad en stock: ");
+                    string cod = Console.ReadLine();
+                    if (listaProductos.ContainsKey(cod))
                     {
-                        Console.WriteLine($"{i + 1} - Nombre del producto: {listaProductos[i].Nombre}, Codigo: {listaProductos[i].Codigo}, " +
-                            $"Cantidad en Stock: {listaProductos[i].CantidadStock}");    
-                    }
-                    int numero = int.Parse(Console.ReadLine()) - 1;
-                    if(numero >=0 && numero < listaProductos.Count)
-                    {
-                        Console.Write("Ingresar la cantida de stock actualizada: ");
-                        int stock = int.Parse(Console.ReadLine());
-                        listaProductos[numero].CantidadStock = stock;
+                        Console.Write("Ingrese la nueva cantidad: ");
+                        int cantidad = int.Parse(Console.ReadLine());
+                        listaProductos[cod].CantidadStock = cantidad;
                         Console.WriteLine("Cantidad en stock actualizada");
                     }
                     else
                     {
-                        Console.WriteLine("Numero de producto no válido");
+                        Console.WriteLine("Producto no encontrado");
                     }
-                    Console.WriteLine("\n");
                     break;
                 case 3:
-                    for (int i = 0; i < listaProductos.Count; i++)
+                    Console.WriteLine("Productos en stock: ");
+                    foreach (var producto in listaProductos.Values)
                     {
-                        Console.WriteLine($"{i + 1} - Nombre del producto: {listaProductos[i].Nombre}, Codigo: {listaProductos[i].Codigo}, " +
-                            $"Cantidad en Stock: {listaProductos[i].CantidadStock}");
+                        Console.WriteLine($"Código: {producto.Codigo}, Nombre: {producto.Nombre}, Cantidad: {producto.CantidadStock}");
                     }
-                        Console.WriteLine("\n");
                     break;
             }
         }

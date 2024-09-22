@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\Dante\\source\\repos\\HistorialNavegacion\\HistorialNavegacion\\HistorialNavegacion.csproj": {}
+    "C:\\Users\\Dante\\source\\Colecciones\\Colecciones\\HistorialNavegacion\\HistorialNavegacion.csproj": {}
   },
   "projects": {
-    "C:\\Users\\Dante\\source\\repos\\HistorialNavegacion\\HistorialNavegacion\\HistorialNavegacion.csproj": {
+    "C:\\Users\\Dante\\source\\Colecciones\\Colecciones\\HistorialNavegacion\\HistorialNavegacion.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\Dante\\source\\repos\\HistorialNavegacion\\HistorialNavegacion\\HistorialNavegacion.csproj",
+        "projectUniqueName": "C:\\Users\\Dante\\source\\Colecciones\\Colecciones\\HistorialNavegacion\\HistorialNavegacion.csproj",
         "projectName": "HistorialNavegacion",
-        "projectPath": "C:\\Users\\Dante\\source\\repos\\HistorialNavegacion\\HistorialNavegacion\\HistorialNavegacion.csproj",
+        "projectPath": "C:\\Users\\Dante\\source\\Colecciones\\Colecciones\\HistorialNavegacion\\HistorialNavegacion.csproj",
         "packagesPath": "C:\\Users\\Dante\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\Dante\\source\\repos\\HistorialNavegacion\\HistorialNavegacion\\obj\\",
+        "outputPath": "C:\\Users\\Dante\\source\\Colecciones\\Colecciones\\HistorialNavegacion\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\Dante\\AppData\\Roaming\\NuGet\\NuGet.Config",

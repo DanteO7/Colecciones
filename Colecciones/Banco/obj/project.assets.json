@@ -13,11 +13,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\Dante\\source\\repos\\HistorialNavegacion\\Banco\\Banco.csproj",
+      "projectUniqueName": "C:\\Users\\Dante\\source\\Colecciones\\Colecciones\\Banco\\Banco.csproj",
       "projectName": "Banco",
-      "projectPath": "C:\\Users\\Dante\\source\\repos\\HistorialNavegacion\\Banco\\Banco.csproj",
+      "projectPath": "C:\\Users\\Dante\\source\\Colecciones\\Colecciones\\Banco\\Banco.csproj",
       "packagesPath": "C:\\Users\\Dante\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\Dante\\source\\repos\\HistorialNavegacion\\Banco\\obj\\",
+      "outputPath": "C:\\Users\\Dante\\source\\Colecciones\\Colecciones\\Banco\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "C:\\Users\\Dante\\AppData\\Roaming\\NuGet\\NuGet.Config",

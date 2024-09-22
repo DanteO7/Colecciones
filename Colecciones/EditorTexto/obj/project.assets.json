@@ -13,11 +13,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\Dante\\source\\repos\\HistorialNavegacion\\EditorTexto\\EditorTexto.csproj",
+      "projectUniqueName": "C:\\Users\\Dante\\source\\Colecciones\\Colecciones\\EditorTexto\\EditorTexto.csproj",
       "projectName": "EditorTexto",
-      "projectPath": "C:\\Users\\Dante\\source\\repos\\HistorialNavegacion\\EditorTexto\\EditorTexto.csproj",
+      "projectPath": "C:\\Users\\Dante\\source\\Colecciones\\Colecciones\\EditorTexto\\EditorTexto.csproj",
       "packagesPath": "C:\\Users\\Dante\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\Dante\\source\\repos\\HistorialNavegacion\\EditorTexto\\obj\\",
+      "outputPath": "C:\\Users\\Dante\\source\\Colecciones\\Colecciones\\EditorTexto\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "C:\\Users\\Dante\\AppData\\Roaming\\NuGet\\NuGet.Config",
