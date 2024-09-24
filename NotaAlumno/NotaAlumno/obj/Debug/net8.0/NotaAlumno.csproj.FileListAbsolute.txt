@@ -1,0 +1,15 @@
+C:\Users\dorsettimartinez\source\repos\NotaAlumno\NotaAlumno\bin\Debug\net8.0\NotaAlumno.exe
+C:\Users\dorsettimartinez\source\repos\NotaAlumno\NotaAlumno\bin\Debug\net8.0\NotaAlumno.deps.json
+C:\Users\dorsettimartinez\source\repos\NotaAlumno\NotaAlumno\bin\Debug\net8.0\NotaAlumno.runtimeconfig.json
+C:\Users\dorsettimartinez\source\repos\NotaAlumno\NotaAlumno\bin\Debug\net8.0\NotaAlumno.dll
+C:\Users\dorsettimartinez\source\repos\NotaAlumno\NotaAlumno\bin\Debug\net8.0\NotaAlumno.pdb
+C:\Users\dorsettimartinez\source\repos\NotaAlumno\NotaAlumno\obj\Debug\net8.0\NotaAlumno.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\dorsettimartinez\source\repos\NotaAlumno\NotaAlumno\obj\Debug\net8.0\NotaAlumno.AssemblyInfoInputs.cache
+C:\Users\dorsettimartinez\source\repos\NotaAlumno\NotaAlumno\obj\Debug\net8.0\NotaAlumno.AssemblyInfo.cs
+C:\Users\dorsettimartinez\source\repos\NotaAlumno\NotaAlumno\obj\Debug\net8.0\NotaAlumno.csproj.CoreCompileInputs.cache
+C:\Users\dorsettimartinez\source\repos\NotaAlumno\NotaAlumno\obj\Debug\net8.0\NotaAlumno.sourcelink.json
+C:\Users\dorsettimartinez\source\repos\NotaAlumno\NotaAlumno\obj\Debug\net8.0\NotaAlumno.dll
+C:\Users\dorsettimartinez\source\repos\NotaAlumno\NotaAlumno\obj\Debug\net8.0\refint\NotaAlumno.dll
+C:\Users\dorsettimartinez\source\repos\NotaAlumno\NotaAlumno\obj\Debug\net8.0\NotaAlumno.pdb
+C:\Users\dorsettimartinez\source\repos\NotaAlumno\NotaAlumno\obj\Debug\net8.0\NotaAlumno.genruntimeconfig.cache
+C:\Users\dorsettimartinez\source\repos\NotaAlumno\NotaAlumno\obj\Debug\net8.0\ref\NotaAlumno.dll
